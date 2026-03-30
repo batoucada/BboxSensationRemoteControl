@@ -1,8 +1,8 @@
 # Bbox Sensation Remote Controller
 
-Permet de contrôler la box TV de Bouygues Telecom via le wifi
+> **[DEPRECATED]** This application is no longer maintained and has been removed from the Google Play Store.
 
-[<img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%">](https://play.google.com/store/apps/details?id=fr.batoucada.bboxsensationremotecontrol)
+Permet de contrôler la box TV de Bouygues Telecom via le wifi
 
 ![Bbox Sensation](images/bbox_sensation.png?raw=true "Bbox Sensation" )
 
